@@ -24,29 +24,4 @@
     <string name="analysis_failed_msg">Analysis failed. Please try again later.</string>
     <string name="analysis_error_msg">Error generating insights: %1$s</string>
 
-    <!-- Ambulance Mission Analytics -->
-    <string name="label_time_saved">TIME SAVED</string>
-    <string name="label_priority_lock">PRIORITY LOCK</string>
-    <string name="status_inactive">INACTIVE</string>
-    <string name="status_active">ACTIVE</string>
-    <string name="default_time_saved">0.0m</string>
-
-    <!-- Ambulance UI Labels -->
-    <string name="label_select_mission_route">SELECT MISSION ROUTE</string>
-    <string name="label_live">LIVE</string>
-    <string name="hint_select_route">Select Route</string>
-    <string name="btn_simulation">Simulation</string>
-    <string name="btn_live_gps">Live GPS</string>
-    <string name="btn_start">Start</string>
-    <string name="btn_pause">Pause</string>
-    <string name="btn_reset">Reset</string>
-    <string name="label_speed_x">Speed: %1$dx</string>
-    <string name="label_signal_proximity">SIGNAL PROXIMITY LIST</string>
-    <string name="label_mission_log">MISSION LOG</string>
-    <string name="system_ready_msg">System ready for mission...</string>
-    <string name="instruction_preset">Preset selected. Press \'Start\' to begin the mission.</string>
-    <string name="instruction_custom">Tap two locations on the map to set a Custom Start and End route.</string>
-    <string name="instruction_gps">GPS Tracking Mode active. Overriding signals in 500m radius of your actual device location.</string>
-    <string name="title_ambulance_mission">Ambulance Mission</string>
-    <string name="label_speed_1x">Speed: 1x</string>
 </resources>
