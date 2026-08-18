@@ -27,11 +27,7 @@
             android:name=".MapActivity"
             android:exported="false" />
         <activity
-<<<<<<< Updated upstream
             android:name=".FrontPage"
-=======
-            android:name=".AmbulanceRouteActivity"
->>>>>>> Stashed changes
             android:exported="false" />
         <activity
             android:name=".StatisticsActivity"
